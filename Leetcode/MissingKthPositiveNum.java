@@ -1,4 +1,3 @@
-package Leetcode;
 
 public class MissingKthPositiveNum {
     public static void main(String[] args) {
